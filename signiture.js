@@ -27,7 +27,24 @@ const lines = [
   'I\'m not lazy, I\'m just on programmer time',
   'My code is like a work of art, it\'s a masterpiece',
   'Programers are the nerds that will shape the world',
-  'When we screw up, we screw UP'  
+  'When we screw up, we screw UP',
+  'I don\'t have a social life, I have a code life',
+  'My code is like a rollercoaster, it has its ups and downs',
+  'Code is my love language',
+  'I don\'t make mistakes, I just have unexpected features',
+  'My code is like a book, it has a beginning, a middle, and a bug',
+  'I\'m not a programmer, I\'m a problem solver, and my solution is code',
+  'Code is like a game, and I\'m always leveling up',
+  'I don\'t have a deadline, I have a coding sprint',
+  'My code is like a recipe, it has ingredients, instructions, and sometimes it explodes',
+  'I\'m not arguing, I\'m just coding passionately',
+  'Code is my superpower, and I use it for good',
+  'I don\'t have a life hack, I have a code hack',
+  'My code is like a time machine, it takes me back to the future',
+  'I\'m not a coder, I\'m a code whisperer',
+  'Code is like a poem, it has rhythm, rhyme, and sometimes it doesn\'t make sense',
+  'I don\'t have a bug, I have a feature request',
+  'My code is like a magic trick, it makes things disappear... and reappear',
 ];
 
 // Add an event listener to the button
