@@ -45,7 +45,9 @@ const lines = [
   'Code is like a poem, it has rhythm, rhyme, and sometimes it doesn\'t make sense',
   'I don\'t have a bug, I have a feature request',
   'My code is like a magic trick, it makes things disappear... and reappear',
-  '10=two'
+  '10=two',
+  'Never gonna give you up, Never gonna let you down',
+  '36',
 ];
 
 // Add an event listener to the button
